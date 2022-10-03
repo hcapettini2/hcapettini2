@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on density maps generation for crowd counting and localization using Deep Learning techniques.
 - 🌱 I’m currently learning about systems in thermodynamic equilibrium and out of equilibrium, diffusion processes, and, more in general, about the physics of complex systems.
+
 -⚡ In my free time I read tech articles and go hiking.
 
   [![GitHub](https://img.shields.io/github/followers/RinaldiLuca?label=follow&style=social)]([profile])
