@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on density maps generation for crowd counting and localization using Deep Learning techniques.
 - 🌱 I’m currently learning about systems in thermodynamic equilibrium and out of equilibrium, diffusion processes, and, more in general, about the physics of complex systems.
 - ⚡ In my free time I read tech articles and go hiking.
-
+***
   [![GitHub hcapettini2](https://img.shields.io/github/followers/RinaldiLuca?label=follow&style=social)](https://github.com/hcapettini2)
   [![Hilario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilario-capettini-croatto/)
   [![Hilario's Gmail](https://img.shields.io/static/v1?style=plastic&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:hilariocapettini@gmail.com)
