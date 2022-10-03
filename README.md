@@ -6,9 +6,6 @@
   [![Hilario's Gmail](https://img.shields.io/static/v1?style=plastic&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:hilariocapettini@gmail.com)
   [![Hilario's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/hcapettini)
 <div />
-- 🔭 I’m currently working on density maps generation for crowd counting and localization using Deep Learning techniques.
-- 🌱 I’m currently learning about systems in thermodynamic equilibrium and out of equilibrium, diffusion processes, and, more in general, about the physics of complex systems.
--⚡ In my free time I read tech articles and go hiking.
 
 <!--
 **hcapettini2/hcapettini2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
