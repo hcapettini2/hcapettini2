@@ -14,10 +14,10 @@
 -->
 <div >
   
-  [![Hilario's Gmail](https://img.shields.io/static/v1?style=plastic&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)]([mail])
-  [![Hilario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)]([linkedin])
+  [![Hilario's Gmail](https://img.shields.io/static/v1?style=plastic&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:hilariocapettini@gmail.com)
+  [![Hilario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilario-capettini-croatto/)
   [![Hilario's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/hcapettini)
-  [![GitHub RinaldiLuca](https://img.shields.io/github/followers/RinaldiLuca?label=follow&style=social)]([profile])
+  [![GitHub RinaldiLuca](https://img.shields.io/github/followers/RinaldiLuca?label=follow&style=social)](https://github.com/hcapettini2)
 <div />
 
 
@@ -35,7 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[profile]: https://github.com/hcapettini2
-[linkedin]: https://www.linkedin.com/in/hilario-capettini-croatto/
-[telegram]: https://t.me/hcapettini
-[mail]: mailto:hilariocapettini@gmail.com
+
