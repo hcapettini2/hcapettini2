@@ -12,7 +12,7 @@
   </a>
 </div>
 -->
-<div id='badges'>
+<div >
   
   [![Hilario's Gmail](https://img.shields.io/static/v1?style=plastic&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)]([mail])
   [![Hilario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)]([linkedin])
