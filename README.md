@@ -4,8 +4,11 @@
   <a href="https://www.linkedin.com/in/hilario-capettini-croatto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="hilariocapettini@gmail.com">
+  <a href="mailto:hilariocapettini@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/hcapettini">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
