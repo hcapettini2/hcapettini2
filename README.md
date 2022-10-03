@@ -7,9 +7,7 @@
 
 <div id="badges">
   [![GitHub hcapettini2](https://img.shields.io/github/followers/RinaldiLuca?label=follow&style=social)](https://github.com/hcapettini2)
-  [![Hilario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilario-capettini-croatto/)
-  [![Hilario's Gmail](https://img.shields.io/static/v1?style=plastic&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:hilariocapettini@gmail.com)
-  [![Hilario's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/hcapettini)
+
   
 <div />
 
