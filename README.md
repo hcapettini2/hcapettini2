@@ -1,8 +1,8 @@
-### Hi there, I'm Hilario, Physics of Data student at University of Padua 👋
+### Hi there, I'm Hilario, MSc in Physics of Data with a strong interest in Computer vision, Deep Learning, and Fluid mechanics. 👋
 
-- 🔭 I’m currently working on density maps generation for crowd counting and localization using Deep Learning techniques.
-- 🌱 I’m currently learning about systems in thermodynamic equilibrium and out of equilibrium, diffusion processes, and, more in general, about the physics of complex systems.
-- ⚡ In my free time I read tech articles and go hiking.
+- 🔭 
+- 🌱 
+
 ***
   ![Hilarios's Github](https://img.shields.io/github/followers/hcapettini2?label=Follow+me&style=social)
   [![Hilario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilario-capettini/)
