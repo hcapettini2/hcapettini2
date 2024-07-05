@@ -1,7 +1,5 @@
-### Hi there, I'm Hilario, MSc in Physics of Data with a strong interest in Computer vision, Deep Learning, and Fluid mechanics. 👋
-
-- 🔭 
-- 🌱 
+### Hi there, I'm Hilario, MSc in Physics of Data with a strong interest in Deep Learning, Computer vision, and Fluid Mechanics. 👋
+ 
 
 ***
   ![Hilarios's Github](https://img.shields.io/github/followers/hcapettini2?label=Follow+me&style=social)
